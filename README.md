@@ -1,5 +1,3 @@
-Sure! Here are three `README.md` files for the different scripts you provided:
-
 **1. detect_mask_image.py**
 
 ```markdown
