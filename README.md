@@ -115,3 +115,7 @@ dataset/
 ```
 
 The trained face mask detector model will be saved as `mask_detector.model`.
+
+
+## Demo
+[video](https://www.youtube.com/watch?v=FnGUDJXppJo)
